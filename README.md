@@ -20,3 +20,9 @@ use sample input json in apis as steps below
 1. /input
 2. /optimise
 3. /results get
+
+
+--- deployment in aws ec2 by docker
+docker build -t cargo-app .
+docker run -d -p 8000:8000 --name cargo-app-container cargo-app
+docker ps
