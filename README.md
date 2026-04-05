@@ -26,3 +26,8 @@ use sample input json in apis as steps below
 docker build -t cargo-app .
 docker run -d -p 8000:8000 --name cargo-app-container cargo-app
 docker ps
+
+## to run py test use - 
+
+pytest -v
+or python3 -m pytest -v
