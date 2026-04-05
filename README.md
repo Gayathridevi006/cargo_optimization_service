@@ -14,3 +14,9 @@ uvicorn main:app --reload --port 8000
 
 # for apis
 use http://127.0.0.1:8000/docs
+
+
+use sample input json in apis as steps below 
+1. /input
+2. /optimise
+3. /results get
