@@ -31,3 +31,4 @@ def get_results():
         "allocations": storage.results_data,
         "total_allocated": sum(a.volume for a in storage.results_data),
     }
+

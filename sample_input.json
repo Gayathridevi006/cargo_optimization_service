@@ -1,0 +1,16 @@
+{
+  "cargos": [
+    {"id": "C1", "volume": 1234},
+    {"id": "C2", "volume": 4352},
+    {"id": "C3", "volume": 3321},
+    {"id": "C4", "volume": 2456},
+    {"id": "C5", "volume": 5123}
+  ],
+  "tanks": [
+    {"id": "T1", "capacity": 3000},
+    {"id": "T2", "capacity": 4000},
+    {"id": "T3", "capacity": 2500},
+    {"id": "T4", "capacity": 3500},
+    {"id": "T5", "capacity": 2000}
+  ]
+}
